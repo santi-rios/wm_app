@@ -3,9 +3,6 @@ project:
   output-dir: docs
   render:
     - /index.qmd
-    - /sine.qmd
-    - /experimental.qmd
-    - /load_file.qmd
 
 website:
   title: "Quarto + Shinylive"
