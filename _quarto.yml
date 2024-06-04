@@ -4,13 +4,13 @@ project:
   render:
     - /index.qmd
 
-website:
-  title: "Quarto + Shinylive"
-  navbar:
-    search: true
-    right:
-      - icon: github
-        href: https://github.com/quarto-ext/shinylive-quarto
+# website:
+#   title: "Quarto + Shinylive"
+#   navbar:
+#     search: true
+#     right:
+#       - icon: github
+#         href: https://github.com/quarto-ext/shinylive-quarto
 
 format:
   html:
